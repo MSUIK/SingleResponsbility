@@ -31,7 +31,7 @@ namespace SingleResponsbility
 
             //Create a username for the pweerson
             Console.WriteLine($"Your username is {user.FirstName.Substring(0, 1)}{user.LastName}");
-            Console.ReadLine();
+            Console.ReadLine(); 
 
         }
     }
